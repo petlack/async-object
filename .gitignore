@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Jest
+coverage
+
+# Flow
+flow-coverage
+flow-typed

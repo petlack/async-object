@@ -1,0 +1,29 @@
+{
+  "presets": [
+    ["env", { "targets": { "node": true } }],
+    "stage-3"
+  ],
+  "plugins": [
+    "transform-class-properties"
+  ],
+  "env": {
+    "commonjs": {
+      "presets": [
+        "latest",
+        "stage-3"
+      ],
+      "plugins": [
+        "transform-class-properties"
+      ]
+    },
+    "umd": {
+      "presets": [
+        ["latest", { "es2015": { "modules": false } }],
+        "stage-3"
+      ],
+      "plugins": [
+        "transform-class-properties"
+      ]
+    }
+  }
+}
