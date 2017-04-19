@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/petlack/async-object.svg?branch=development)](https://travis-ci.org/petlack/async-object.svg?branch=development)
+[![Build Status](https://travis-ci.org/petlack/async-object.svg?branch=development)](https://travis-ci.org/petlack/async-object/)
 [![codecov](https://codecov.io/gh/petlack/async-object/branch/development/graph/badge.svg)](https://codecov.io/gh/petlack/async-object/branch/development)
 
 # async-object
