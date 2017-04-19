@@ -2,7 +2,7 @@
   "name": "async-object",
   "version": "1.0.0",
   "description": "Asynchronous object written in vanilla JS",
-  "main": "dist/async-object.js",
+  "main": "commonjs/index.js",
   "license": "MIT",
   "files": [
     "*.js",
